@@ -1,0 +1,6 @@
+J:/sipeed/k210/face_detect/build/CMakeFiles/face_detect.dir
+J:/sipeed/k210/face_detect/build/CMakeFiles/edit_cache.dir
+J:/sipeed/k210/face_detect/build/CMakeFiles/rebuild_cache.dir
+J:/sipeed/k210/face_detect/build/lib/CMakeFiles/rebuild_cache.dir
+J:/sipeed/k210/face_detect/build/lib/CMakeFiles/kendryte.dir
+J:/sipeed/k210/face_detect/build/lib/CMakeFiles/edit_cache.dir

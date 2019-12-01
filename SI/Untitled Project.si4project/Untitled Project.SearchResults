@@ -1,0 +1,10 @@
+---- BOARD_LICHEEDAN Matches (9 in 5 files) ----
+board_config.h (src\face_detect) line 8 : #define  BOARD_LICHEEDAN    1
+board_config.h (src\face_detect) line 14 : #if BOARD_KD233 + BOARD_LICHEEDAN != 1
+lcd_set_direction in lcd.c (src\face_detect) : #if BOARD_LICHEEDAN
+io_mux_init in main.c (src\face_detect) : #if BOARD_LICHEEDAN
+io_set_power in main.c (src\face_detect) : #if BOARD_LICHEEDAN
+main in main.c (src\face_detect) : #if BOARD_LICHEEDAN
+nt35310.c (src\face_detect) line 37 : #if BOARD_LICHEEDAN
+tft_hard_init in nt35310.c (src\face_detect) : #if BOARD_LICHEEDAN
+ov2640.c (src\face_detect) line 32 : #if BOARD_LICHEEDAN
